@@ -1,0 +1,10 @@
+D:\WEB\DotnetCore\test-net-core-mvc\bin\Debug\netcoreapp2.1\test-net-core-mvc.deps.json
+D:\WEB\DotnetCore\test-net-core-mvc\bin\Debug\netcoreapp2.1\test-net-core-mvc.runtimeconfig.json
+D:\WEB\DotnetCore\test-net-core-mvc\bin\Debug\netcoreapp2.1\test-net-core-mvc.runtimeconfig.dev.json
+D:\WEB\DotnetCore\test-net-core-mvc\bin\Debug\netcoreapp2.1\test-net-core-mvc.dll
+D:\WEB\DotnetCore\test-net-core-mvc\bin\Debug\netcoreapp2.1\test-net-core-mvc.pdb
+D:\WEB\DotnetCore\test-net-core-mvc\obj\Debug\netcoreapp2.1\test-net-core-mvc.csproj.CoreCompileInputs.cache
+D:\WEB\DotnetCore\test-net-core-mvc\obj\Debug\netcoreapp2.1\test-net-core-mvc.AssemblyInfoInputs.cache
+D:\WEB\DotnetCore\test-net-core-mvc\obj\Debug\netcoreapp2.1\test-net-core-mvc.AssemblyInfo.cs
+D:\WEB\DotnetCore\test-net-core-mvc\obj\Debug\netcoreapp2.1\test-net-core-mvc.dll
+D:\WEB\DotnetCore\test-net-core-mvc\obj\Debug\netcoreapp2.1\test-net-core-mvc.pdb
